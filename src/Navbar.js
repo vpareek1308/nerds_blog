@@ -1,6 +1,11 @@
 import {Link} from 'react-router-dom';
+import {auth} from './FirebaseConfig';
 
 const Navbar = () => {
+    const signOut = () => {
+        auth.signOut();
+    }
+
     return ( 
         <nav className="navbar">
             <h1>Nerds' Blog</h1>
@@ -8,6 +13,7 @@ const Navbar = () => {
                 <Link to="/">Home</Link>
                 <Link to="/create">New Blog</Link>
             </div>
+            <button className="sign-out" onClick={signOut}>Sign Out</button>
         </nav>
      );
 }

@@ -112,3 +112,24 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+.sign-in button {
+  background-color: #f1354d;
+  color: white;
+  padding: 20px;
+  border: 0;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 300px;
+  font-size: 1.5em;
+}
+
+.sign-out {
+  margin-left: auto;
+   background-color: #f1354d;
+   color: white;
+   padding: 8px;
+   border: 0;
+   border-radius: 8px;
+   cursor: pointer;
+}
