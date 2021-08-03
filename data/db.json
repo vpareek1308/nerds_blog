@@ -1,0 +1,24 @@
+{
+  "blogs": [
+    {
+      "title": "La La Land",
+      "body": "Sebastian (Ryan Gosling) and Mia (Emma Stone) are drawn together by their common desire to do what they love. But as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+      "author": "Vivek Pareek",
+      "language": "English",
+      "type": "Movie",
+      "id": "1"
+    },
+    {
+      "title": "Man Of Steel",
+      "body": "Clark learns about the source of his abilities and his real home when he enters a Kryptonian ship in the Artic. However, an old enemy follows him to Earth in search of a codex and brings destruction.",
+      "author": "Vivek Pareek",
+      "id": "6OU2uzp"
+    },
+    {
+      "title": "About Time",
+      "body": "Like all the men in his family, Tim Lake possesses the power to travel in time. With the advice of his father, he uses his special ability to pursue his romantic interest, Mary.\n",
+      "author": "Vivek Pareek",
+      "id": "gq5LZLU"
+    }
+  ]
+}
