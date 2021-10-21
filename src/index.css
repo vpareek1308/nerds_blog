@@ -12,11 +12,11 @@
   align-items: center;
   max-width: 600px;
   margin: 0 auto;
-  border-bottom: 1px solid #f2f2f2;
+  border-bottom: 1px solid #f1dfdf;
 }
 
 .navbar h1 {
-  color: #f1354d;
+  color: #e41b36;
 }
 
 .navbar .links {
@@ -30,7 +30,7 @@
 }
 
 .navbar a:hover {
-  color: #f1356d;
+  color: #f00b4f;
 }
 
 .content {
@@ -42,16 +42,16 @@
 .blog-preview {
   padding: 10px 16px;
   margin: 20px 0px;
-  border-bottom: 1px solid #fafafa;
+  border-bottom: 1px solid #f7eaea;
 }
 
 .blog-preview :hover {
-  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+  box-shadow: 1px 3px 5px rgba(49, 15, 197, 0.1);
 }
 
 .blog-preview h2 {
   font-size: 20px;
-  color: #f1356d;
+  color: #da0a48;
   margin-bottom: 8px;
 }
 
