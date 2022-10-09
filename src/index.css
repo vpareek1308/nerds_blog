@@ -7,7 +7,7 @@
 }
 
 .navbar {
-  padding: 20px;
+  padding: 21px;
   display: flex;
   align-items: center;
   max-width: 600px;
@@ -52,7 +52,7 @@
 .blog-preview h2 {
   font-size: 20px;
   color: #f1356d;
-  margin-bottom: 8px;
+  margin-bottom: 9px;
 }
 
 .blog-preview a{
@@ -107,7 +107,7 @@
 .create button {
   background-color: #f1354d;
   color: white;
-  padding: 8px;
+  padding: 9px;
   border: 0;
   border-radius: 8px;
   cursor: pointer;
@@ -116,9 +116,9 @@
 .sign-in button {
   background-color: #f1354d;
   color: white;
-  padding: 20px;
+  padding: 21px;
   border: 0;
-  border-radius: 8px;
+  border-radius: 9px;
   cursor: pointer;
   margin-top: 300px;
   font-size: 1.5em;
@@ -128,7 +128,7 @@
   margin-left: auto;
    background-color: #f1354d;
    color: white;
-   padding: 8px;
+   padding: 7px;
    border: 0;
    border-radius: 8px;
    cursor: pointer;
