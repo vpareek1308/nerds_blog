@@ -3,7 +3,7 @@
 * {
   margin: 0;
   font-family: Quicksand;
-  color: #333;
+  color: #334;
 }
 
 .navbar {
@@ -16,7 +16,7 @@
 }
 
 .navbar h1 {
-  color: #f1354d;
+  color: #f1254d;
 }
 
 .navbar .links {
@@ -116,7 +116,7 @@
 .sign-in button {
   background-color: #f1354d;
   color: white;
-  padding: 21px;
+  padding: 22px;
   border: 0;
   border-radius: 9px;
   cursor: pointer;
