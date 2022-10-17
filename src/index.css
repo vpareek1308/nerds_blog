@@ -66,7 +66,7 @@
 }
 
 .blog-details div{
-  margin: 20px 0;
+  margin: 22px 0;
 }
 
 .blog-details button{
@@ -85,19 +85,19 @@
 }
 
 .create label {
-  text-align: left;
+  text-align: right;
   display: block;
 }
 
 .create h2 {
   font-size: 20px;
   color: #f1354d;
-  margin-bottom: 30px;
+  margin-bottom: 32px;
 }
 
 .create input, .create textarea, .create select {
   width: 100%;
-  padding: 6px 10px;
+  padding: 6px 12px;
   margin: 10px 0;
   border: 8px solid #ddd;
   box-sizing: border-box;
@@ -109,7 +109,7 @@
   color: white;
   padding: 9px;
   border: 0;
-  border-radius: 8px;
+  border-radius: 9px;
   cursor: pointer;
 }
 
