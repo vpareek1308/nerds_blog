@@ -13,7 +13,7 @@ function App() {
 
   return (
     <Router>
-      <div className="Apps">
+      <div className="App">
         {user && <Navbar />}
         <div className="content">
           <Switch>
