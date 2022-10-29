@@ -31,4 +31,4 @@ const ViewBlog = () => {
      );
 }
  
-export default ViewBlog;
+export defaul. ViewBlog;
